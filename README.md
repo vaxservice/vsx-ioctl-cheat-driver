@@ -1,4 +1,4 @@
-# Vsx Driver
+# Vsx Driver - Credits discord.gg/saturniv | github.com/paysonism
 
 IOCTL cheat driver base that has cr3 decryption for eac.
 
