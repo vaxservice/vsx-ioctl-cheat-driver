@@ -8,4 +8,4 @@ This was made for fn (EAC/BE) but can be used as a base for other games. This ut
 
 # Credits
 
-Made by [Vsx](https://github.com/vsxcc) - [Vsx](https://discord.gg/2RYMWKzX6v)
+Made by [Payson](https://github.com/paysonism) - [Vsx](https://discord.gg/2RYMWKzX6v)
